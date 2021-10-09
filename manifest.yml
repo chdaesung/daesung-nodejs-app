@@ -6,7 +6,7 @@ applications:
   buildpack: sdk-for-nodejs
   command: npm start
   disk_quota: 1G
-  memory: 128MB
+  memory: 64MB
   domain: mybluemix.net
   host: daesung-nodejs-app
   env:
